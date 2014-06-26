@@ -1,0 +1,107 @@
+Currently on TwoLevel Tree: SM
+Currently on TwoLevel Tree: SM
+Currently on TwoLevel Tree: SM
+Currently on TwoLevel Tree: SM
+Currently on TwoLevel Tree: SM
+Currently on TwoLevel Tree: SM
+Currently on TwoLevel Tree: SM
+Currently on TwoLevel Tree: SM
+Currently on TwoLevel Tree: SM
+Currently on TwoLevel Tree: SM
+Currently on TwoLevel Tree: SM
+Currently on TwoLevel Tree: SM
+Currently on TwoLevel Tree: SM
+Currently on TwoLevel Tree: SM
+Currently on TwoLevel Tree: SM
+Currently on TwoLevel Tree: SM
+Currently on TwoLevel Tree: SM
+Currently on TwoLevel Tree: ST
+Currently on TwoLevel Tree: ST
+Currently on TwoLevel Tree: ST
+Currently on TwoLevel Tree: ST
+Currently on TwoLevel Tree: ST
+Currently on TwoLevel Tree: ST
+Currently on TwoLevel Tree: ST
+Currently on TwoLevel Tree: ST
+Currently on TwoLevel Tree: ST
+Currently on TwoLevel Tree: ST
+Currently on TwoLevel Tree: RM
+Currently on TwoLevel Tree: RM
+Currently on TwoLevel Tree: RM
+Currently on TwoLevel Tree: RM
+Currently on TwoLevel Tree: RM
+Currently on TwoLevel Tree: RM
+Currently on TwoLevel Tree: RM
+Currently on TwoLevel Tree: RM
+Currently on TwoLevel Tree: RM
+Currently on TwoLevel Tree: RM
+Currently on TwoLevel Tree: RT
+Currently on TwoLevel Tree: RT
+Currently on TwoLevel Tree: RT
+Currently on TwoLevel Tree: RT
+Currently on TwoLevel Tree: RT
+Currently on TwoLevel Tree: RT
+Currently on TwoLevel Tree: RT
+Currently on TwoLevel Tree: RT
+Currently on TwoLevel Tree: RT
+Currently on TwoLevel Tree: RT
+Currently on TwoLevel Tree: I
+Currently on TwoLevel Tree: I
+Currently on TwoLevel Tree: I
+Currently on TwoLevel Tree: I
+Currently on TwoLevel Tree: I
+Currently on TwoLevel Tree: I
+Currently on TwoLevel Tree: I
+Currently on TwoLevel Tree: I
+Currently on TwoLevel Tree: I
+Currently on TwoLevel Tree: I
+Stimulus Modality[0]: 0.48325268946114947 +/-0.03567477084226224
+
+Stimulus Modality[1]: 0.6778481150260796 +/-0.06983594963066309
+
+Stimulus Modality[2]: 0.404606396838408 +/-0.06680000912979427
+
+Stimulus Modality[3]: 0.7638578976103515 +/-0.03503061622607111
+
+Stimulus Modality[4]: 0.7390056533329827 +/-0.03353339721384377
+
+Stimulus Type[0]: 0.27247576138838914 +/-0.051418746423661545
+
+Stimulus Type[1]: 0.39157342248487387 +/-0.07576118454255082
+
+Stimulus Type[2]: 0.1332162667121668 +/-0.02760502792440959
+
+Stimulus Type[3]: 0.36119502703073797 +/-0.047080066760360875
+
+Stimulus Type[4]: 0.3674839408534378 +/-0.07893150069609074
+
+Response Modality[0]: 0.49203475506119265 +/-0.046611464935940664
+
+Response Modality[1]: 0.6872495170922125 +/-0.06194268069386279
+
+Response Modality[2]: 0.11823181944840437 +/-0.03883976216377793
+
+Response Modality[3]: 0.6978406146195849 +/-0.047294074657416224
+
+Response Modality[4]: 0.7371887443267192 +/-0.017356989918344688
+
+Response Type[0]: 0.33466072760862453 +/-0.06045269389334235
+
+Response Type[1]: 0.47663396996380697 +/-0.03010465399807371
+
+Response Type[2]: 0.19193284978302447 +/-0.06493762162061326
+
+Response Type[3]: 0.5134679254792103 +/-0.043810897283829225
+
+Response Type[4]: 0.49217580965050695 +/-0.05154565703822635
+
+Instructions [0]: 0.360182055040159 +/-0.04584162067478221
+
+Instructions [1]: 0.4572623238695603 +/-0.048472473636443275
+
+Instructions [2]: 0.2037015729146015 +/-0.04860864981243095
+
+Instructions [3]: 0.4740560224914071 +/-0.06615895244441432
+
+Instructions [4]: 0.5463636100779381 +/-0.03349277351174661
+
